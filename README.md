@@ -4,8 +4,8 @@
 [![GitHub release](https://img.shields.io/github/release/LesakIrina/js-assignments.svg)](https://github.com/LesakIrina/js-assignments/releases/latest)
 
 
-# [Brest IT Shark](https://it-shark.pro/)
-[![IT Shark](https://avatars2.githubusercontent.com/u/34164782?s=200&v=4)](http://it-shark.pro/)
+# [Brest IT Shark](https://LesakIrina/)
+[![IT Shark](https://avatars2.githubusercontent.com/u/34164782?s=200&v=4)](http://LesakIrina/)
 ## Javascript Assignments
 
 ### Docs
